@@ -1,0 +1,15 @@
+.intro__note {
+    margin: 0;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+@media screen and (max-width: 425px) {
+    .intro__note {
+        font-size: 12px;
+        line-height: 19px;
+    }
+}

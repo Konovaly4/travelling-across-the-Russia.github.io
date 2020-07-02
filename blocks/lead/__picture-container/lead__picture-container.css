@@ -1,0 +1,14 @@
+@import url('../__picture/lead__picture.css');
+@import url('../__vector/lead__vector.css');
+
+.lead__picture-container {
+    margin: 0; 
+    width: 100%;
+    max-width: 984px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    position: relative;
+}
+

@@ -1,0 +1,17 @@
+@import url('../lead/lead.css');
+@import url('../intro/intro.css');
+@import url('../photo-grid/photo-grid.css');
+@import url('../places/places.css');
+@import url('../video/video.css');
+@import url('../comments/comments.css');
+@import url('../cover/cover.css');
+@import url('../footer/footer.css');
+
+.content {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    position: relative;
+}

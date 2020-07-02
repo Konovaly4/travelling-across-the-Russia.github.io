@@ -1,0 +1,6 @@
+@import url('../blocks/page/page.css');
+@import url('../fonts/inter/Inter\ \(web\)/inter.css');
+
+body {
+    background-color: #2A2C2F;
+}
